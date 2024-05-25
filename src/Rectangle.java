@@ -42,6 +42,9 @@ public class Rectangle {
         double area=width*length;
         System.out.println("The Area of the rectangle is "+ area);
 
+
+
+
     }
 
 
